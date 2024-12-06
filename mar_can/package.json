@@ -1,0 +1,41 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "devDependencies": {
+        "@headlessui/react": "^1.4.2",
+        "@inertiajs/react": "^1.0.0",
+        "@tailwindcss/forms": "^0.5.3",
+        "@vitejs/plugin-react": "^4.2.0",
+        "autoprefixer": "^10.4.12",
+        "axios": "^1.1.2",
+        "laravel-vite-plugin": "^0.7.2",
+        "postcss": "^8.4.31",
+        "react": "^18.2.0",
+        "react-dom": "^18.2.0",
+        "tailwindcss": "^3.2.1",
+        "vite": "^4.0.0"
+    },
+    "dependencies": {
+        "@fortawesome/fontawesome-svg-core": "^6.6.0",
+        "@fortawesome/react-fontawesome": "^0.2.2",
+        "@nextui-org/react": "^2.4.2",
+        "@react-pdf-viewer/core": "^3.12.0",
+        "@react-pdf-viewer/default-layout": "^3.12.0",
+        "chart.js": "^4.4.3",
+        "compromise": "^14.13.0",
+        "date-fns": "^3.6.0",
+        "framer-motion": "^11.2.14",
+        "lodash": "^4.17.21",
+        "natural": "^7.1.0",
+        "pdf-lib": "^1.17.1",
+        "react-chartjs-2": "^5.2.0",
+        "react-dropzone": "^14.2.3",
+        "react-pdf": "^9.1.0",
+        "rsuite": "^5.70.0",
+        "sweetalert": "^2.1.2",
+        "sweetalert2": "^11.12.4"
+    }
+}
